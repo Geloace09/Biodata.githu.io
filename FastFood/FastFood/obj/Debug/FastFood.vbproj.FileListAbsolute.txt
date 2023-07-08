@@ -1,0 +1,24 @@
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\obj\Debug\FastFood.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\obj\Debug\FastFood.vbproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\obj\Debug\FastFood.frmFastFood.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\bin\Debug\FastFood.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\obj\Debug\FastFood.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\FastFood\FastFood\obj\Debug\FastFood.pdb
+F:\FastFood\FastFood\bin\Debug\FastFood.exe.config
+F:\FastFood\FastFood\obj\Debug\FastFood.exe
+F:\FastFood\FastFood\obj\Debug\FastFood.xml
+F:\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\aral\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\aral\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\aral\FastFood\FastFood\obj\Debug\FastFood.xml
+C:\aral\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\aral\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\aral\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\aral\FastFood\FastFood\bin\Debug\FastFood.xml
+C:\aral\FastFood\FastFood\obj\Debug\FastFood.frmFastFood.resources
+C:\aral\FastFood\FastFood\obj\Debug\FastFood.Resources.resources
+C:\aral\FastFood\FastFood\obj\Debug\FastFood.vbproj.GenerateResource.Cache
